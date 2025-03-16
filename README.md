@@ -1,5 +1,6 @@
 ## Hello! I'm Victor Sarrís.
 👨‍💻 - Estudante de TADS no Instituto Federal do Piauí <br>
+✅ -  Capacitado em Sistemas Embarcados <br>
 ✅ - Estudando HTML e CSS<br>
 ✅ - Estudando C<br>
 ✅ - Java<br>
