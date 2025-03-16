@@ -1,4 +1,4 @@
-## Olá, eu sou o Victor Sarrís
+## Hello! I'm Victor Sarrís.
 👨‍💻 - Estudante de TADS no Instituto Federal do Piauí <br>
 ✅ - Estudando HTML e CSS<br>
 ✅ - Estudando C<br>
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## Linguagens conhecidas
+## Known programming languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
   
-## Redes Sóciais 
+## Social media 
 <div> 
   <a href="https://www.youtube.com/@DevVictorSarr%C3%ADs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/victor_sarris/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
