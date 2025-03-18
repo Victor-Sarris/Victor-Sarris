@@ -4,13 +4,13 @@
   </a>
 </div>
 
-## Hello! I'm Victor Sarrís.
-👨‍💻 - Estudante de TADS no Instituto Federal do Piauí <br>
-✅ -  Capacitado em Sistemas Embarcados <br>
-✅ - Estudando HTML e CSS<br>
-✅ - Estudando C<br>
-✅ - Java<br>
-✅ - Python
+## I'm Victor Sarrís
+👨‍💻 - Atualmente estou no III módulo de TADS no IFPI, participante da residência tecnologica do EmbarcaTech. Tenho um vasto conhecimento em ferramentas de design como o Figma e Gimp. Nós últimos meses venho participando de StarTups emergentes de Floriano, sendo sócio da Therapy e FeiraShop. <br>
+💻 -  Capacitado em Sistemas Embarcados. <br>
+💻 - Estudando HTML e CSS. <br>
+💻 - Estudando linguagem. C<br>
+💻 - Linguagem Java. <br>
+💻 - Linguagem Python.
 
 ## My Stack
 <div>
