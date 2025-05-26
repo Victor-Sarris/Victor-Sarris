@@ -6,7 +6,8 @@
 </div>
 
 ## I'm Victor Sarrís
-👨‍💻 - Atualmente estou no III módulo de TADS no IFPI, participante da residência tecnológica do EmbarcaTech. Tenho um vasto conhecimento em ferramentas de design como o Figma e Gimp. Nos últimos meses, venho participando de startups emergentes de Floriano, sendo sócio da Therapy e Feirashop. <br>
+
+Atualmente estou no III módulo de TADS no IFPI, participante da residência tecnológica do EmbarcaTech. Tenho um vasto conhecimento em ferramentas de design como o Figma e Gimp. Nos últimos meses, venho participando de startups emergentes de Floriano, sendo sócio da Therapy e Feirashop. <br>
 - Tenho experiência em Sistemas Embarcados. <br>
 - Estudando HTML e CSS. <br>
 - Linguagem C. <br>
