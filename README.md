@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
-
-## I'm Victor Sarrís
+<br>
+<br>
 
 Atualmente estou no III módulo de TADS no IFPI, participante da residência tecnológica do EmbarcaTech. Tenho um vasto conhecimento em ferramentas de design como o Figma e Gimp. Nos últimos meses, venho participando de startups emergentes de Floriano, sendo sócio da Therapy e Feirashop. <br>
 - Tenho experiência em Sistemas Embarcados. <br>
@@ -14,7 +14,8 @@ Atualmente estou no III módulo de TADS no IFPI, participante da residência tec
 - Java. <br>
 - Linguagem Python.
 
-## My Stack
+
+## Minhas Habilidades
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Victor-Sarris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Sarris&layout=compact&langs_count=16&theme=dracula"/>
