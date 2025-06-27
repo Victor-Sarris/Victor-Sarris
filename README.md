@@ -11,8 +11,6 @@
 <p>Atualmente estou no III módulo de TADS no IFPI, participante da residência tecnológica do EmbarcaTech. Tenho um vasto conhecimento em ferramentas de design como o Figma e Gimp. Nos últimos meses, venho participando de startups emergentes de Floriano, sendo sócio da Therapy e Feirashop.</p>
   <ul>
     <li>Residente do EmbarcaTech</li>
-    <li>Developer Júnior Front-end</li>
-    <li>Developer Júnior C+</li>
   </ul>
 </div>
 <br>
