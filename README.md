@@ -30,7 +30,14 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ccvxijb3m44h5gn3zrsi4pbjw4&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+<br>
+<br>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Victor-Sarris.Victor-Sarris&"  />
+</div>
+
+###
 
 
 ###
