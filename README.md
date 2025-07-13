@@ -22,7 +22,7 @@
 <br>
 <br>
 <div align = "center">
-  <h2>Frequência de commits:</h2>
+  <h3>Frequência de commits:</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/github-contribution-grid-snake.svg">
