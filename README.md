@@ -18,7 +18,6 @@
 `console.log("Não gosto de linguagem C");` <br>
 <br>
 
-# Linguagens mais usadas 🗣️💻 
 <br>
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Victor-Sarris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
