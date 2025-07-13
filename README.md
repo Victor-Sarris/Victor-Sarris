@@ -20,11 +20,10 @@
 
 <br>
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Victor-Sarris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Sarris&layout=compact&langs_count=16&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-Sarris&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<br>
-<br>
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ccvxijb3m44h5gn3zrsi4pbjw4">
