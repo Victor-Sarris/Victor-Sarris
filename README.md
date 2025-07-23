@@ -14,7 +14,6 @@
 
 `Sobre mim:` <br>
 `console.log("Aspirante a jogos e música");` <br>
-`console.log("Não gosto de linguagem C");` <br>
 <br>
 <br>
 
