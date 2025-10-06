@@ -4,8 +4,8 @@
 
 ```python
 - Atualmente estou no IV módulo do curso de TADS no IFPI
-- Tenho um vasto conhecimento em ferramentas de design como o Figma e Gimp.
 - Participante do EmbarcaTech.
+- Developer Junior
 ```
 ###
 
