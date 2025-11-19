@@ -4,7 +4,7 @@
 
 ```python
 - Atualmente estou no IV módulo do curso de TADS no IFPI
-- Participante do EmbarcaTech.
+- Residente do EmbarcaTech.
 - Developer Junior
 ```
 
