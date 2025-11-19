@@ -46,7 +46,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- 
+Link para o site que usei para estilizar o readme.md:
+https://profile-readme-generator.com/
 
+se divitar meu mano :)
+-->
 
 ###
 
