@@ -3,7 +3,7 @@
 # Welcome to my profile 👨‍💻🖐️🪽
 
 ```python
-- Atualmente estou no IV módulo do curso de TADS no IFPI
+- Atualmente estou no V módulo do curso de TADS no IFPI
 - Residente do EmbarcaTech.
 - Developer Junior
 ```
@@ -39,13 +39,6 @@
 
 Mais informações você encontra aqui: https://victorsarris.netlify.app/
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Victor-Sarris/Victor-Sarris/output/pacman-contribution-graph.svg">
-</picture>
 
 <!-- 
 Link para o site que usei para estilizar o readme.md:
