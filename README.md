@@ -31,8 +31,8 @@ Direto de **São Francisco-PI**, sou um desenvolvedor que gosta de conectar o mu
 
 | Projeto | O que é? | Tech |
 | :--- | :--- | :--- |
-| **🤖 Totem Facial** | Controle de acesso via reconhecimento facial (Meu TCC). | Python, ESP32, MediaPipe |
-| **📅 ResourceFlow** | Sistema para agendamento de recursos no IFPI. | Django, Bootstrap |
+| **🤖 Totem Facial** | Controle de acesso via reconhecimento facial (Meu TCC). | Python, ESP32, Dlib, Media Pipe, SBC |
+| **📅 ResourceFlow** | Sistema para agendamento de recursos no IFPI. | NodeJs, React, MySQL |
 | **❄️ Smart AC** | Automação de ar-condicionado via infravermelho. | C++, IoT, ESP32 |
 | **📚 Prof-Mat** | Plataforma de apoio para professores da rede pública. | React, Node.js |
 
