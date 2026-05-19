@@ -1,4 +1,14 @@
+<h1 align="center">E aí! Eu sou o Victor Sarrís. 👨‍💻🔧</h1>
+<h3 align="center">Full Stack Dev | TADS @ IFPI</h3>
 
+
+### < 🚀 Quem sou eu />
+
+Direto de **São Francisco-PI**, sou um desenvolvedor que gosta de conectar o mundo digital ao físico. Atualmente estou no **V módulo de TADS no IFPI** e mergulhado no mundo dos sistemas embarcados como **Residente do EmbarcaTech**.
+
+- 🔭 **Foco atual:** Visão Computacional em microcontroladores (ESP32-CAM + MediaPipe).
+- 💼 **Vivência:** Atuando na cena de startup com a **Therapy**.
+- 🛠️ **Maker:** Adoro criar meus próprios cases 3D e automatizar coisas (como meu ar-condicionado!).
 
 
 
