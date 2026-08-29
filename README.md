@@ -1,4 +1,4 @@
-<h1 align="center">E aí! Eu sou o Victor Sarrís. 👨‍💻🔧</h1>
+<!-- <h1 align="center">E aí! Eu sou o Victor Sarrís. 👨‍💻🔧</h1>
 <h3 align="center">Full Stack Dev | TADS @ IFPI</h3>
 
 ---
@@ -49,4 +49,4 @@ Direto de **São Francisco-PI**, sou um desenvolvedor que gosta de conectar o mu
       </td>
     </tr>
   </table>
-</div>
+</div> -->
