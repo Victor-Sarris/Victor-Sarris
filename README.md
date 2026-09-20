@@ -9,7 +9,7 @@ Direto de **São Francisco-PI**, sou um desenvolvedor que gosta de conectar o mu
 
 - 🔭 **Foco atual:** Visão Computacional em microcontroladores (ESP32-CAM + MediaPipe).
 - 💼 **Vivência:** Atuando na cena de startup com a **Therapy**.
-- 🛠️ **Maker:** Adoro criar meus próprios cases 3D e automatizar coisas (como meu ar-condicionado!).
+- 🛠️ **Maker:** Criador de objetos 3D e automações robustas.
 
 ---
 
